@@ -1,6 +1,8 @@
-body {
-  background-color: black;
+#body {
+  background-color: rgb(195, 132, 132);
 }
-h1 {
+#h1 {
+  text-decoration-color: rgb(146, 82, 82);
+  -webkit-text-fill-color: aquamarine;
   background-color: aqua;
 }
